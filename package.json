@@ -18,9 +18,13 @@
     "extract-zip": "^1.6.7",
     "request": "^2.87.0"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ioBroker/ioBroker.link-box"
+  },
   "main": "main.js",
   "bugs": {
-    "url": "https://github.com/ioBroker/ioBroker.link/issues"
+    "url": "https://github.com/ioBroker/ioBroker.link-box/issues"
   },
   "readmeFilename": "README.md",
   "scripts": {
