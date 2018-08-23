@@ -1,6 +1,6 @@
 {
   "name": "iobroker.link-box",
-  "version": "0.5.1",
+  "version": "0.6.2",
   "description": "Client to connect to the ioBroker instances via iobroker.link cloud.",
   "homepage": "https://iobroker.link",
   "keywords": [
@@ -9,14 +9,6 @@
     "VPN"
   ],
   "dependencies": {
-    "express": "^4.16.3",
-    "node-forge": "^0.7.5",
-    "portastic": "^1.0.1",
-    "ps-tree": "^1.1.0",
-    "q": "^1.5.1",
-    "socket.io-client": "2.1.1",
-    "extract-zip": "^1.6.7",
-    "request": "^2.87.0"
   },
   "repository": {
     "type": "git",
