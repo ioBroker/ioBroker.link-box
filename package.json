@@ -1,6 +1,6 @@
 {
   "name": "iobroker.link-box",
-  "version": "0.6.2",
+  "version": "0.6.3",
   "description": "Client to connect to the ioBroker instances via iobroker.link cloud.",
   "homepage": "https://iobroker.link",
   "keywords": [
